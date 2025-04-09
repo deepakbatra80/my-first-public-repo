@@ -36,3 +36,15 @@ Committed and pushed the new branch.
 Opened a pull request to Account A.
 
 Pull request was approved and merged.
+Verification Links
+Original Repository (Account A):
+https://github.com/deepakbatra5/my-first-public-repo
+
+Forked Repository (Account B):
+https://github.com/deepakbatra80/my-first-public-repo
+
+Pull Request (from Account B):
+[PR link from Account B to Account A] (You’ll find this under Account A → Pull Requests tab)
+
+Merged Commit History:
+https://github.com/deepakbatra5/my-first-public-repo/commits/main
